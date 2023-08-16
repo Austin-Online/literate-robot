@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Austin-Online/literate-robot/static/css/main.bdaee6b4.css",
+    "main.js": "/Austin-Online/literate-robot/static/js/main.c2ffecdf.js",
+    "static/media/user.jpg": "/Austin-Online/literate-robot/static/media/user.6e05230aff69eaa471f7.jpg",
+    "static/media/Screenshot_3.png": "/Austin-Online/literate-robot/static/media/Screenshot_3.f641c58e37d4e8472087.png",
+    "static/media/Screenshot_2.png": "/Austin-Online/literate-robot/static/media/Screenshot_2.3a0540951652c2e0da4d.png",
+    "static/media/Screenshot_1.png": "/Austin-Online/literate-robot/static/media/Screenshot_1.a81ade4aaf05ddde68a5.png",
+    "static/media/Screenshot_4.png": "/Austin-Online/literate-robot/static/media/Screenshot_4.b2dfd9d3adba5ba92149.png",
+    "index.html": "/Austin-Online/literate-robot/index.html",
+    "main.bdaee6b4.css.map": "/Austin-Online/literate-robot/static/css/main.bdaee6b4.css.map",
+    "main.c2ffecdf.js.map": "/Austin-Online/literate-robot/static/js/main.c2ffecdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdaee6b4.css",
+    "static/js/main.c2ffecdf.js"
+  ]
+}

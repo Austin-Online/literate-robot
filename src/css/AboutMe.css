@@ -1,0 +1,40 @@
+/* AboutMe.css */
+.about-me-container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0d1f22;
+    background-color: #9FB1BC;
+    padding: 20px;
+  }
+
+  .content-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1200px; /* Adjust this value as needed */
+    margin: 0 auto;
+  }
+  
+  .avatar {
+    margin-right: 20px; /* Add some spacing between the image and bio */
+    border-radius: 50%;
+    overflow: hidden;
+    flex: 0 0 auto; /* Don't let the avatar grow or shrink */
+  }
+  
+  .avatar img {
+    width: 450px; 
+    height: 450px; 
+    object-fit: cover; /* Maintain aspect ratio and cover the entire circle */
+   
+  }
+  
+  .bio {
+    flex: 1 1 auto; /* Allow the bio to grow or shrink as needed */
+    max-width: 500px;
+    margin-top: 10px; /* Add some spacing at the top of the bio */
+    margin-left: 250px;
+  }
