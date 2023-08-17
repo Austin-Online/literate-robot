@@ -10,7 +10,7 @@ This is a React application for a portfolio for full stack development.
 
 ## Usage
 -After the server has been initialized, navigate to http://localhost:3001/ to run the web application.
-
+-The deployed page can be found [here](https://austin-online.github.io/literate-robot/)
 ![screengrab](./src/images/Screengrab.png)
 
 ## License
