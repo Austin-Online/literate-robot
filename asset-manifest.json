@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/literate-robot/static/css/main.a18a358d.css",
+    "main.css": "/literate-robot/static/css/main.d0f423db.css",
     "main.js": "/literate-robot/static/js/main.3bfb3705.js",
     "static/media/user.jpg": "/literate-robot/static/media/user.6e05230aff69eaa471f7.jpg",
     "static/media/Screenshot_3.png": "/literate-robot/static/media/Screenshot_3.f641c58e37d4e8472087.png",
@@ -8,11 +8,11 @@
     "static/media/Screenshot_1.png": "/literate-robot/static/media/Screenshot_1.a81ade4aaf05ddde68a5.png",
     "static/media/Screenshot_4.png": "/literate-robot/static/media/Screenshot_4.b2dfd9d3adba5ba92149.png",
     "index.html": "/literate-robot/index.html",
-    "main.a18a358d.css.map": "/literate-robot/static/css/main.a18a358d.css.map",
+    "main.d0f423db.css.map": "/literate-robot/static/css/main.d0f423db.css.map",
     "main.3bfb3705.js.map": "/literate-robot/static/js/main.3bfb3705.js.map"
   },
   "entrypoints": [
-    "static/css/main.a18a358d.css",
+    "static/css/main.d0f423db.css",
     "static/js/main.3bfb3705.js"
   ]
 }
