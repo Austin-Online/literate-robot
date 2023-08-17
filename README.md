@@ -5,12 +5,16 @@ This is a React application for a portfolio for full stack development.
 
 ## Installation
 -Clone the repository
+
 -Open a terminal window and run 'npm install'
+
 -Run the command 'npm start' to start the server.
 
 ## Usage
 -After the server has been initialized, navigate to http://localhost:3001/ to run the web application.
+
 -The deployed page can be found [here](https://austin-online.github.io/literate-robot/)
+
 ![screengrab](./src/images/Screengrab.png)
 
 ## License
