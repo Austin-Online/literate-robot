@@ -17,7 +17,7 @@ h2 {
     padding-bottom: 100px;
     /* Add these styles to arrange items in columns and remove bullet points */
     list-style: none;
-    columns: 3; /* Create three columns */
+    columns: 3;
   }
   
   .resume-links a {
@@ -26,7 +26,7 @@ h2 {
   }
   
   .resume-links a:hover {
-      color: #b38a58; /* Change link color on hover */
+      color: #b38a58;
   }
   
   .resume-links a:active {

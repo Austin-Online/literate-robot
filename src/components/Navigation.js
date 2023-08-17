@@ -1,6 +1,5 @@
 import React from 'react';
-import '../css/Navigation.css'; // Import the Navigation component CSS
-
+import '../css/Navigation.css';
 
 function Navigation({ activeSection, setActiveSection }) {
     const sections = ['About Me', 'Portfolio', 'Contact', 'Resume'];

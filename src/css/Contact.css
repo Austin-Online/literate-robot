@@ -7,7 +7,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #9FB1BC; /* Set a background color */
+    background-color: #9FB1BC;
   }
   
   .contact-form {
@@ -58,7 +58,7 @@
     font-size: 14px;
     margin-top: -10px;
     margin-bottom: 15px;
-    text-transform: uppercase; /* Add this line to render messages in uppercase */
+    text-transform: uppercase;
   }
   
   /* Media Query for Small Screens */

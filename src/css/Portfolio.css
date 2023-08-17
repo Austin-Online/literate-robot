@@ -6,9 +6,9 @@
   
   .portfolio-items {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
-    justify-content: center; /* Center the items horizontally */
+    justify-content: center;
   }
   
   .portfolio-item {
@@ -31,10 +31,10 @@
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.8); /* Background color for the text */
+    background-color: rgba(0, 0, 0, 0.8);
     color: white;
     font-size: 20px;
-    opacity: 0; /* Initially hidden */
+    opacity: 0;
     transition: opacity 0.3s ease-in-out;
     display: flex;
     flex-direction: column;
@@ -45,22 +45,22 @@
   }
   
   .portfolio-item-hover:hover .languages {
-    opacity: 1; /* Display languages text on hover */
+    opacity: 1; 
   }
   
   .portfolio-item img {
     max-width: 100%;
     height: auto;
-    max-height: 300px; /*maximum height for the images */
+    max-height: 300px;
   }
   
   .links {
-    margin-top: 10px; /* Add spacing between links */
+    margin-top: 10px;
   }
   
   .links a {
     display: block;
-    margin-bottom: 5px; /* Add spacing between links */
+    margin-bottom: 5px;
     text-decoration: none;
     color:black;
     transition: all 0.15s;
@@ -80,7 +80,7 @@
   
   @media (max-width: 768px) {
     .portfolio-items {
-      grid-template-columns: repeat(2, 1fr); /* 2 columns for smaller screens */
+      grid-template-columns: repeat(2, 1fr);
     }
   }
   
